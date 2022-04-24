@@ -1,4 +1,8 @@
 ### Hello, I am Nidhi Abhyankar
+I'm currently learning Python.
+I have implemented projects using frameworks like Angular, React and Flutter.
+
+- 📫 How to reach me: nidhiabhyankar@gmail.com
 
 <!--
 **NidhiAbhyankar/NidhiAbhyankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
